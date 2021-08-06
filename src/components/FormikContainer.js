@@ -59,7 +59,7 @@ function FormikContainer () {
           <h3>Input Foto KTP</h3>
           <FormikControl
             control='input'
-            type='number'
+            type='text'
             label='Nomor KTP'
             name='number'
           />
